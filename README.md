@@ -13,16 +13,14 @@ Our work proposes a novel multi-teacher approach, enabling an apprentice robot t
 The following demonstrations show the social learning method evaluated in the ARGoS3 simulator using the QUPA robot model.
 
 ### 1. The Apprentice's Local Perception
-*(Nota para Jonatan: Arrastra y suelta tu video aquí en la caja de edición de GitHub)*
 
 > **Description:** This video shows the fragmented trajectories of the master robots exactly as perceived by the apprentice's local sensors prior to data cloud overlapping.
 
 ### 2. The Learning Process & Execution
-*(Nota para Jonatan: Arrastra y suelta tu video aquí en la caja de edición de GitHub)*
 
 > **Description:** The apprentice successfully reconstructs the demonstrated patterns (triangle and irregular pentagon) relying exclusively on its local perception, and replicates the movement with over 98% overall imitation quality.
 
 ## Authors
-* **Jonatan Díaz** - *Universidad de Nariño* (Systems Engineering)
-* **David Garzón Ramos** - *University College Dublin* (Robotics)
-* **Wilson Achicanoy** - *Universidad de Nariño* (Systems Engineering)
+* **Jonatan Díaz** - *Universidad de Nariño* ()
+* **Wilson Achicanoy** - *Universidad de Nariño* ()
+* **David Garzón Ramos** - *University College Dublin* ()
