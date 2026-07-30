@@ -10,7 +10,7 @@ Our work proposes a novel multi-teacher approach, enabling an apprentice robot t
 * [**Read the full Extended Abstract (PDF)**](./nombre-de-tu-archivo.pdf) 
 
 ## Simulation Videos
-The following demonstrations show the embodied imitation mechanism evaluated in the ARGoS3 simulator using the QUPA robot model.
+The following demonstrations show the social learning method evaluated in the ARGoS3 simulator using the QUPA robot model.
 
 ### 1. The Apprentice's Local Perception
 *(Nota para Jonatan: Arrastra y suelta tu video aquí en la caja de edición de GitHub)*
