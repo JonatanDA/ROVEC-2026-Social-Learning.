@@ -12,7 +12,7 @@ Este repositorio contiene el resumen extendido y las demostraciones en video de 
 ---
 
 ## Resumen Extendido
-Nuestro trabajo propone un método de aprendizaje social en el cual un robot aprende de múltiples robots maestros basándose únicamente en su percepción local.
+Nuestro trabajo propone un método de aprendizaje social en el cual un robot aprende de múltiples robots basándose únicamente en su percepción local.
 
 * [**Leer el Resumen Extendido completo (PDF)**](./Abstract/Abstract.pdf)
 
@@ -26,7 +26,7 @@ Las siguientes demostraciones muestran el método de aprendizaje social evaluado
 
 https://github.com/user-attachments/assets/ccb3695a-d4bb-4e09-ad2c-b4e90a92f781
 
-> **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica muestra en tiempo real los datos parciales que el aprendiz está obteniendo, incluyendo el ruido agregado.
+> **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica muestra en tiempo real los datos que el aprendiz está obteniendo.
 
 ### 2. Percepción Local (Múltiples maestros)
 
