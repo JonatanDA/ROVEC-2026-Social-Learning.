@@ -26,7 +26,7 @@ Las siguientes demostraciones muestran el método de aprendizaje social evaluado
 
 https://github.com/user-attachments/assets/ccb3695a-d4bb-4e09-ad2c-b4e90a92f781
 
-> **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica muestra en tiempo real los datos que el aprendiz está obteniendo.
+> **Descripción:** Muestra al robot aprendiz (Ra) observando al robot maestro 1 (Rm1). La gráfica muestra en tiempo real los datos que el aprendiz está obteniendo.
 
 ### 2. Percepción Local (Múltiples maestros)
 
@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/5f17e82c-3331-4197-bbf5-0fa0ce6923fb
 
 ### 3. Ejecución del Comportamiento Aprendido
 
-El robot aprendiz es capaz de observar a múltiples maestros y aprender de forma simultánea múltiples comportamientos.
+El robot aprendiz (Ra) es capaz de observar a múltiples maestros (Rm_i) y aprender de forma simultánea múltiples comportamientos.
 
 * **Primer comportamiento aprendido:**
 
