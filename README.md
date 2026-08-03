@@ -13,9 +13,12 @@ Este repositorio contiene el resumen extendido y las demostraciones en video de 
 ## Resumen Extendido
 Nuestro trabajo propone un método de aprendizaje social donde un robot aprendiz logra abstraer y procesar información simultánea de múltiples robots maestros, basándose únicamente en su percepción local.
 
-* [**Leer el Resumen Extendido completo (PDF)**](./nombre-de-tu-archivo.pdf) 
+* [**Leer el Resumen Extendido completo (PDF)**](./A
 
----
+https://github.com/user-attachments/assets/f77890b6-0823-41fa-bda7-d3c8406f4a0e
+
+bstract/Abstract.pdf)
+
 
 ## Videos de Simulación
 Las siguientes demostraciones muestran el método de aprendizaje social evaluado en el simulador ARGoS3 utilizando el modelo de robot QUPA. 
@@ -23,7 +26,10 @@ Las siguientes demostraciones muestran el método de aprendizaje social evaluado
 *(Nota: En todos los videos, el lado izquierdo muestra la simulación en ARGoS3 y el lado derecho muestra la gráfica de datos en tiempo real).*
 
 ### 1. Percepción Local (Un maestro)
-*(Arrastra y suelta tu video ob1.mp4 aquí)*
+
+https://github.com/user-attachments/assets/ccb3695a-d4bb-4e09-ad2c-b4e90a92f781
+
+
 > **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica ilustra en tiempo real los datos parciales que el aprendiz está obteniendo, incluyendo el ruido agregado.
 
 ### 2. Percepción Local (Múltiples maestros)
