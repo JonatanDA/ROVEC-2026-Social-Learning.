@@ -42,10 +42,10 @@ El robot aprendiz es capaz de observar a múltiples maestros y aprender de forma
 
 https://github.com/user-attachments/assets/0aa90d06-d0fc-4cbc-8431-a70438ac9a57
 
-> **Descripción:** Tras visualizar múltiples repeticiones de las demostraciones realizadas por los maestros, el robot aprendiz ejecuta con éxito el primer comportamiento aprendido (patrón triangular).
+> **Descripción:** Tras visualizar múltiples repeticiones de las demostraciones realizadas por los maestros, el robot aprendiz ejecuta el primer comportamiento aprendido (patrón triangular).
 
 * **Segundo comportamiento aprendido:**
-* 
+
 https://github.com/user-attachments/assets/2c5f518d-6eef-4c16-86ee-2734a7900fea
 
 > **Descripción:** Se observa al robot aprendiz ejecutando el segundo comportamiento aprendido (patrón pentagonal).
