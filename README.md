@@ -12,7 +12,7 @@ Este repositorio contiene el resumen extendido y las demostraciones en video de 
 ---
 
 ## Resumen Extendido
-Nuestro trabajo propone un método de aprendizaje social donde un robot logra aprender de múltiples robots maestros, basándose únicamente en su percepción local.
+Nuestro trabajo propone un método de aprendizaje social en el cual un robot aprende de múltiples robots maestros basándose únicamente en su percepción local.
 
 * [**Leer el Resumen Extendido completo (PDF)**](./Abstract/Abstract.pdf)
 
