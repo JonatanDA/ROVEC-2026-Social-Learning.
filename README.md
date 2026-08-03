@@ -1,26 +1,45 @@
 # ROVEC-2026-Social-Learning
 
-Welcome to the supplementary repository for our poster presentation at the **Ecuadorian Summer Camp on Telerobotics and Vehicular Technology (ROVEC 2026)**.
+Bienvenido al repositorio complementario para nuestra presentación de póster en el **Campamento de Verano Ecuatoriano sobre Telerrobótica y Tecnología Vehicular (ROVEC 2026)**.
 
-This repository contains the extended abstract and video demonstrations of our research on decentralized social learning in robot swarms.
+Este repositorio contiene el resumen extendido y las demostraciones en video de nuestra investigación sobre aprendizaje social descentralizado en enjambres de robots.
 
-## Extended Abstract
-Our work proposes a novel multi-teacher approach, enabling an apprentice robot to learn by simultaneously abstracting and processing partial trajectory data from multiple master robots using only local perception.
+## Tabla de Contenido
+* [Resumen Extendido](#resumen-extendido)
+* [Videos de Simulación](#videos-de-simulación)
 
-* [**Read the full Extended Abstract (PDF)**](./nombre-de-tu-archivo.pdf) 
+---
 
-## Simulation Videos
-The following demonstrations show the social learning method evaluated in the ARGoS3 simulator using the QUPA robot model.
+## Resumen Extendido
+Nuestro trabajo propone un método de aprendizaje social donde un robot aprendiz logra abstraer y procesar información simultánea de múltiples robots maestros, basándose únicamente en su percepción local.
 
-### 1. The Apprentice's Local Perception
+* [**Leer el Resumen Extendido completo (PDF)**](./nombre-de-tu-archivo.pdf) 
 
-> **Description:** This video shows the fragmented trajectories of the master robots exactly as perceived by the apprentice's local sensors prior to data cloud overlapping.
+---
 
-### 2. The Learning Process & Execution
+## Videos de Simulación
+Las siguientes demostraciones muestran el método de aprendizaje social evaluado en el simulador ARGoS3 utilizando el modelo de robot QUPA. 
 
-> **Description:** The apprentice successfully reconstructs the demonstrated patterns (triangle and irregular pentagon) relying exclusively on its local perception, and replicates the movement with over 98% overall imitation quality.
+*(Nota: En todos los videos, el lado izquierdo muestra la simulación en ARGoS3 y el lado derecho muestra la gráfica de datos en tiempo real).*
 
-## Authors
-* **Jonatan Díaz** - *Universidad de Nariño* ()
-* **Wilson Achicanoy** - *Universidad de Nariño* ()
-* **David Garzón Ramos** - *University College Dublin* ()
+### 1. Percepción Local (Un maestro)
+*(Arrastra y suelta tu video ob1.mp4 aquí)*
+> **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica ilustra en tiempo real los datos parciales que el aprendiz está obteniendo, incluyendo el ruido agregado.
+
+### 2. Percepción Local (Múltiples maestros)
+*(Arrastra y suelta tu video ob2.mp4 aquí)*
+> **Descripción:** Vista superior de todo el escenario. La gráfica detalla los datos que el aprendiz capta simultáneamente al observar a los siete maestros en la arena.
+
+### 3. Ejecución del Comportamiento Aprendido
+*(Arrastra y suelta tu video c1.mp4 aquí)*
+> **Descripción:** Tras visualizar múltiples repeticiones del comportamiento demostrado, el robot aprendiz ejecuta con éxito el patrón de movimiento aprendido de los maestros.
+
+### 4. Aprendizaje Simultáneo de Múltiples Patrones
+*(Arrastra y suelta tu video c2.mp4 aquí)*
+> **Descripción:** El robot procesa y aprende dos comportamientos distintos a la vez. Para facilitar la visualización, el aprendiz ejecuta únicamente uno de los dos patrones aprendidos.
+
+---
+
+## Autores
+* **Jonatan Díaz** - *Universidad de Nariño* (jhonatandiaz1w1@udenar.edu.co)[IEEE_Journal_Paper___Abstract_Guidelines.pdf](https://github.com/user-attachments/files/30649747/IEEE_Journal_Paper___Abstract_Guidelines.pdf)
+* **David Garzón Ramos** - *University College Dublin* (david.garzonramos@ucd.ie)
