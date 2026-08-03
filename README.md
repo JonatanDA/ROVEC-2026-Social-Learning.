@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio complementario para nuestra presentación de póster en el **Campamento de Verano Ecuatoriano sobre Telerrobótica y Tecnología Vehicular (ROVEC 2026)**.
 
-Este repositorio contiene el resumen extendido y las demostraciones en video de nuestra investigación sobre aprendizaje social descentralizado en enjambres de robots.
+Este repositorio contiene el resumen extendido y las demostraciones en video de nuestra investigación sobre aprendizaje social en enjambres de robots.
 
 ## Tabla de Contenido
 * [Resumen Extendido](#resumen-extendido)
@@ -11,7 +11,7 @@ Este repositorio contiene el resumen extendido y las demostraciones en video de 
 ---
 
 ## Resumen Extendido
-Nuestro trabajo propone un método de aprendizaje social donde un robot aprendiz logra abstraer y procesar información simultánea de múltiples robots maestros, basándose únicamente en su percepción local.
+Nuestro trabajo propone un método de aprendizaje social donde un robot logra aprender de múltiples robots maestros, basándose únicamente en su percepción local.
 
 * [**Leer el Resumen Extendido completo (PDF)**](./Abstract/Abstract.pdf)
 
@@ -25,7 +25,7 @@ Las siguientes demostraciones muestran el método de aprendizaje social evaluado
 
 https://github.com/user-attachments/assets/ccb3695a-d4bb-4e09-ad2c-b4e90a92f781
 
-> **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica ilustra en tiempo real los datos parciales que el aprendiz está obteniendo, incluyendo el ruido agregado.
+> **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica muestra en tiempo real los datos parciales que el aprendiz está obteniendo, incluyendo el ruido agregado.
 
 ### 2. Percepción Local (Múltiples maestros)
 
@@ -35,15 +35,17 @@ https://github.com/user-attachments/assets/5f17e82c-3331-4197-bbf5-0fa0ce6923fb
 
 ### 3. Ejecución del Comportamiento Aprendido
 
+El robot aprendiz es capaz de observar a múltiples maestros y aprender de forma simultánea múltiples comportamientos.
+
+* **Primer comportamiento aprendido:**
 https://github.com/user-attachments/assets/0aa90d06-d0fc-4cbc-8431-a70438ac9a57
+> **Descripción:** Tras visualizar múltiples repeticiones de las demostraciones realizadas por los maestros, el robot aprendiz ejecuta con éxito el primer comportamiento aprendido (patrón triangular).
 
-> **Descripción:** Tras visualizar múltiples repeticiones del comportamiento demostrado, el robot aprendiz ejecuta con éxito el patrón de movimiento aprendido de los maestros.
-
-### 4. Aprendizaje Simultáneo de Múltiples Patrones
-
+* **Segundo comportamiento aprendido:**
 https://github.com/user-attachments/assets/2c5f518d-6eef-4c16-86ee-2734a7900fea
+> **Descripción:** Se observa al robot aprendiz ejecutando el segundo comportamiento aprendido (patrón pentagonal).
 
-> **Descripción:** El robot procesa y aprende dos comportamientos distintos a la vez. Para facilitar la visualización, el aprendiz ejecuta únicamente uno de los dos patrones aprendidos.
+> **Nota:** Aunque el robot aprende ambos comportamientos de manera simultánea durante el mismo proceso de observación, se presentan en videos separados para facilitar y clarificar la visualización de cada trayectoria.
 
 ---
 
