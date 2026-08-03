@@ -13,11 +13,7 @@ Este repositorio contiene el resumen extendido y las demostraciones en video de 
 ## Resumen Extendido
 Nuestro trabajo propone un método de aprendizaje social donde un robot aprendiz logra abstraer y procesar información simultánea de múltiples robots maestros, basándose únicamente en su percepción local.
 
-* [**Leer el Resumen Extendido completo (PDF)**](./A
-
-https://github.com/user-attachments/assets/f77890b6-0823-41fa-bda7-d3c8406f4a0e
-
-bstract/Abstract.pdf)
+* [**Leer el Resumen Extendido completo (PDF)**](./Abstract/Abstract.pdf)
 
 
 ## Videos de Simulación
@@ -29,23 +25,29 @@ Las siguientes demostraciones muestran el método de aprendizaje social evaluado
 
 https://github.com/user-attachments/assets/ccb3695a-d4bb-4e09-ad2c-b4e90a92f781
 
-
 > **Descripción:** Muestra al robot aprendiz observando al robot maestro 1. La gráfica ilustra en tiempo real los datos parciales que el aprendiz está obteniendo, incluyendo el ruido agregado.
 
 ### 2. Percepción Local (Múltiples maestros)
-*(Arrastra y suelta tu video ob2.mp4 aquí)*
+
+https://github.com/user-attachments/assets/5f17e82c-3331-4197-bbf5-0fa0ce6923fb
+
 > **Descripción:** Vista superior de todo el escenario. La gráfica detalla los datos que el aprendiz capta simultáneamente al observar a los siete maestros en la arena.
 
 ### 3. Ejecución del Comportamiento Aprendido
-*(Arrastra y suelta tu video c1.mp4 aquí)*
+
+https://github.com/user-attachments/assets/0aa90d06-d0fc-4cbc-8431-a70438ac9a57
+
 > **Descripción:** Tras visualizar múltiples repeticiones del comportamiento demostrado, el robot aprendiz ejecuta con éxito el patrón de movimiento aprendido de los maestros.
 
 ### 4. Aprendizaje Simultáneo de Múltiples Patrones
-*(Arrastra y suelta tu video c2.mp4 aquí)*
+
+https://github.com/user-attachments/assets/2c5f518d-6eef-4c16-86ee-2734a7900fea
+
 > **Descripción:** El robot procesa y aprende dos comportamientos distintos a la vez. Para facilitar la visualización, el aprendiz ejecuta únicamente uno de los dos patrones aprendidos.
 
 ---
 
 ## Autores
-* **Jonatan Díaz** - *Universidad de Nariño* (jhonatandiaz1w1@udenar.edu.co)[IEEE_Journal_Paper___Abstract_Guidelines.pdf](https://github.com/user-attachments/files/30649747/IEEE_Journal_Paper___Abstract_Guidelines.pdf)
+* **Jonatan Díaz** - *Universidad de Nariño* (jhonatandiaz1w1@udenar.edu.co)
+* **Wilson Achicanoy** - *Universidad de Nariño* (wilachic@udenar.edu.co)
 * **David Garzón Ramos** - *University College Dublin* (david.garzonramos@ucd.ie)
