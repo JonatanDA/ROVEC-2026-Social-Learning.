@@ -12,7 +12,8 @@ This repository contains the extended abstract and video demonstrations of our r
 
 ## Extended Abstract
 
-Our work proposes a social learning method in which an apprentice robot learns from multiple master robots using only its local perception.
+Our work proposes to develop and evaluate a social learning method for robot swarms that uses peer imitation for behavior learning.
+
 
 - [**Read the Full Extended Abstract (PDF)**](./Abstract/Abstract.pdf)
 
